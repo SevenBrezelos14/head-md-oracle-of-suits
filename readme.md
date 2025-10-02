@@ -1,2 +1,2 @@
 # Oracle of Suits
-hello
+this is my media design project 
