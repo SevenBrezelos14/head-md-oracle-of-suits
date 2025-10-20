@@ -7,7 +7,7 @@ let speed = 15;
 let yaw = 0;
 
 let cityChunkSize = 1000;
-let generatedChunks = new Set();
+let generatedChunks = new Set(); 
 
 function setup() {
   createCanvas(windowWidth, windowHeight, WEBGL);
